@@ -1,3 +1,5 @@
+# "This is a declarative Jenkins pipeline that provisions an EKS cluster using AWS credentials."
+
 properties([
     parameters([
         string(
