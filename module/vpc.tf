@@ -64,6 +64,7 @@ resource "aws_subnet" "private-subnet" {
 }
 
 
+
 resource "aws_route_table" "public-rt" {
   vpc_id = aws_vpc.vpc.id
 
