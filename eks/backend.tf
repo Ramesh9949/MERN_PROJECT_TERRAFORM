@@ -6,6 +6,7 @@ terraform {
       version = "~> 5.49.0"
     }
   }
+
   backend "s3" {
     bucket         = "dev-bhavya994904"
     region         = "ap-south-1"
