@@ -29,7 +29,4 @@ This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE
 - **Contribute**: Found an error or have valuable resources? Contribute to our learning on the [Discord Server](https://discord.com/invite/jdzF8kTtw2) !
 - **Discussions**: Join discussions, ask questions, and connect with fellow learners in the GitHub Discussions section.
 
-## 📢 Spread the Word
-Share your journey with your network and tag me, [Aman Pathak](https://www.linkedin.com/in/aman-devops), when you post your blogs on LinkedIn. Let's learn together!
 
-Happy learning and blogging! 🌟
